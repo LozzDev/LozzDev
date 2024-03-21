@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jesús Manuel</h1>
-<h3 align="center">A passionate student full stack developer</h3>
+![image](https://github.com/LozzDev/LozzDev/assets/157696062/54e5cef6-e715-47b2-87c2-5afcc6e1876c)
+<h3 align="center">A passionate full stack developer student</h3>
 
-- 🌱 I’m currently learning **Technician in web development**
+- 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **jesusmanuelgarcialozano@alumnos.cei.es**
 
