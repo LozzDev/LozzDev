@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **jesusmanuelgarcialozano@alumnos.cei.es**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
