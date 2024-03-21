@@ -1,4 +1,13 @@
-![315546067-54e5cef6-e715-47b2-87c2-5afcc6e1876c](https://github.com/LozzDev/LozzDev/assets/157696062/2b2b3625-a923-4925-8c22-536f76af8935)
+<h1 align="center">Hi 👋, I'm </h1>
+
+![Lozzdev sombra](https://github.com/LozzDev/LozzDev/assets/157696062/6caf58a7-40fc-4210-9901-28237c12a47e)
+
+
+
+
+
+
+
 
 <h3 align="center">A passionate full stack developer student</h3>
 
