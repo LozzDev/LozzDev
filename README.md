@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm LozzDev</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/51cfa3cc-ea8f-43b6-99b7-f594b56c9874">
+</p>
 <h3 align="center">A passionate Web Full Stack Developer from Spain</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lozzdev&label=Profile%20views&color=0e75b6&style=flat" alt="lozzdev" /> </p>
 
