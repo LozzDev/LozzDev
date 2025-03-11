@@ -12,7 +12,7 @@
 
 - 🔭 Also [Your Gainz](https://github.com/Nando218/YourGainz)
 
-- 👨‍💻 All of my projects are available at [Here!](https://lozzdev-portfolio-lozzdevs-projects.vercel.app/)
+- 👨‍💻 All of my projects are available [Here!](https://lozzdev-portfolio-lozzdevs-projects.vercel.app/)
 
 -  🌱 I’m currently learning **Laravel, Express and React.**
 
