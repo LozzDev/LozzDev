@@ -8,10 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lozzdev" alt="lozzdev" /></a> </p>
 
-- 🔭 I’m currently working on [Hotel Magnolia](https://github.com/Bimai6/magnolia-hotels)
-
-- 🔭 Also [Your Gainz](https://github.com/Nando218/YourGainz)
-
 - 👨‍💻 All of my projects are available [Here!](https://lozzdev-portfolio-lozzdevs-projects.vercel.app/)
 
 -  🌱 I’m currently learning **Laravel, Express and React.**
